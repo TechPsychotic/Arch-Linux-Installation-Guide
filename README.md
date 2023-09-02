@@ -8,7 +8,7 @@ This document describes my preferred way to install Arch Linux.
 
 * __UEFI__ is the modern replacement for Legacy BIOS.
 
-If you are curious as to why I use Arch you can read __[Why Arch Linux](https://github.com/TechPsychotic/Arch-Linux-Install-Guide/blob/master/why-arch.md)__.
+If you are curious as to why I use Arch you can read __[Why Arch Linux](https://github.com/TechPsychotic/Arch-Linux-Installation-Guide/blob/main/why-arch.md)__.
 
 ---
 
